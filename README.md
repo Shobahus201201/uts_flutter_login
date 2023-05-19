@@ -1,6 +1,6 @@
-**Nama : Shobahus Solichin**
-**Nim : 312010076**
-**Kelas : TI.20.A.1**
+# Nama : Shobahus Solichin 
+# Nim : 312010076 
+# Kelas : TI.20.A.1 
 
 ## Deskripsi UTS
 
